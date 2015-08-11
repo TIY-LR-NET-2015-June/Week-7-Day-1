@@ -1,16 +1,11 @@
 # Week-7-Day-1 Intro to Javascript.
 ==============
 
-Challenge:
-----
-
-Given the data in movies.json, define a method that finds the worst movie out right
-now (based on `critics_score`)
-
 
 Today:
 -----
 
+1. Review  Lab
 1. JavaScript History
 1. From C# to JS
 1. Console, alerts
